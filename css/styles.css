@@ -859,7 +859,7 @@ img {
 
 .container .footer-list-two {
   list-style: none;
-  margin-right: 93px;
+  margin-right: auto;
 }
 
 .container .footer-list-three {
